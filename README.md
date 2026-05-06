@@ -9,9 +9,9 @@
 
 <h3 style='font-size: 40px; align="left"'><b>My IDEs</b></h3>
 <div id="ides">
-  <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IJ Badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="IJ Badge"/>
+
 </div>
 
 <h3 align="left"><b>My tools</b></h3>
